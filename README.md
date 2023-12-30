@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SammyRomo
 - 👀 I’m interested in learn everything about AI, Deep Learning, etc.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Python and AI in CS50.
 - 📫 My Email is: samirromo@proton.me
 
 <!---
